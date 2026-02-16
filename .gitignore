@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pkl
+*.joblib
+*.log
+
+## venv
+.env/
+venv/
+.venv/
+
+## Files
+data/raw/
+data/processed/
